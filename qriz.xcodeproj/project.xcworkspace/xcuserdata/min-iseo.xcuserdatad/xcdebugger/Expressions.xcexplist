@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in selectedButtonView.body.getter:OnboardingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthenticationService.authenticateUserWithFirebase(credential:completion:):AuthenticationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firebaseUser.email">
+            </PersistentString>
+            <PersistentString
+               value = "firebaseUser.providerID">
+            </PersistentString>
+            <PersistentString
+               value = "firebaseUser.displayName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
